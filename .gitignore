@@ -1,0 +1,4 @@
+*.md
+new*
+tmp_data.txt
+fr.env
